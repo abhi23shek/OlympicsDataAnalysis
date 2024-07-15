@@ -13,7 +13,7 @@ This project analyzes Olympic Games data using Streamlit, Pandas, Plotly, Matplo
 1. **Clone the repository:**
    ```
    git clone https://github.com/abhi23shek/OlympicsDataAnalysis.git
-   cd olympicsdataanalysis
+   cd OlympicsDataAnalysis
    ```
 
 2. **Install dependencies:**
