@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub README template for your project:
-
----
-
 # Olympics Data Analysis
 
 ![Olympics](https://qph.cf2.quoracdn.net/main-qimg-be47d9970e36f45335eb7ec604f8efb1)
