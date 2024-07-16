@@ -7,6 +7,13 @@ import scipy
 import plotly.figure_factory as ff
 import preprocessor, helper
 
+st.set_page_config(
+    page_title="Olympics",
+    page_icon="torch.png",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
 df = pd.read_csv('athlete_events.csv')
 region_df = pd.read_csv('noc_regions.csv')
 df = df.astype({'Year': 'str'})
